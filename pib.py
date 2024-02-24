@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly_express as px
-import plotly as pt 
+#import plotly as pt 
 import sidrapy as sidra
 import streamlit as st 
 
