@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly_express
+plotly
+sidrapy
+streamlit
