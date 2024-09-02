@@ -1,6 +1,5 @@
-streamlit
-pandas
-plotly_express
-plotly
-sidrapy
-streamlit
+streamlit == 1.38.0
+pandas == 2.2.2 
+plotly_express == 0.4.0
+plotly == 5.24.0
+sidrapy == 0.1.4
